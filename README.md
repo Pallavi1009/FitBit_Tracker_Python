@@ -7,3 +7,5 @@ The dataset consists of records collected over a specific period, typically capt
 Usage:
 Data Preprocessing: Open and run data_preprocessing.ipynb in Jupyter Notebook to clean the dataset, handle missing values, and perform any necessary preprocessing steps.
 Exploratory Data Analysis: Execute exploratory_data_analysis.ipynb to explore and visualize the dataset, identifying trends, patterns, and correlations among different features.
+
+ Dataset Link : The data source used for this case study is https://www.kaggle.com/datasets/arashnic/fitbit. This dataset was downloaded from Kaggle where it was uploaded by Möbius.
